@@ -23,9 +23,18 @@ This is the main page of the website. It gives the overview of the website on wh
 This page displays the details of the user and gives an option to the user to edit their user information that they had provided earlier during registration.<br><br>
 <img src="images/profile.PNG" width=750px><br><br>
 
+**Edit Profile Page**<br>
+It allows you to edit your information and save the changes.<br><br>
+<img src="images/edit_profile.PNG" width=750px><br><br>
 
-<img src="images/wallet.PNG" width=750px>
-<img src="images/menu.PNG" width=750px>
+**Profile Updated ALERT**<br>
+The alert is displayed when the user information is updated.<br><br>
+<img src="images/profile_update_alert.PNG" width=500px><br><br>
+
+**Wallet Page**<br>
+This displays the current balance in your wallet. The wallet initially initializes with 500Rs.<br><br>
+<img src="images/wallet.PNG" width=750px><br><br>
+
 <img src="images/cart.PNG" width=750px>
 <img src="images/order_confirm.PNG" width=750px>
 <img src="images/order_confirmed_alert.PNG" width=750px>
