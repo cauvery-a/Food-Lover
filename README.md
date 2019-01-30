@@ -1,5 +1,7 @@
 # Food-Lover
 
+# User View
+
 **Login Page**<br>
 This is the first page that appears as soon as the webpage is loads.<br>
 Anyone who has already registered can login. If not they can click register that redirects them to the registration form.<br><br>
@@ -71,3 +73,4 @@ This page has only those items that the user recently ordered and have already r
 <img src="images/rate_food.PNG" width=750px><br><br>
 
 
+# Admin/Delivery Boy View
