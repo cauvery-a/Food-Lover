@@ -80,14 +80,14 @@ This is an alert for logging-in as an admin.<br><br>
 <img src="images/admin_login_alert.PNG" width=500px><br><br>
 
 **Admin Home Page**<br><br>
-<img src="admin_home.PNG" width=750px><br><br>
+<img src="images/admin_home.PNG" width=750px><br><br>
 This page consists of 4 buttons:<br>
 1. Viewing and editing the menu<br><br>
-<img src="admin_menu.PNG" width=750px><br><br>
+<img src="images/admin_menu.PNG" width=750px><br><br>
 2. Viewing the user details.<br><br>
-<img src="admin_user_info.PNG" width=750px><br><br>
+<img src="images/admin_user_info.PNG" width=750px><br><br>
 3. Viewing the orders to be delivered.<br>
    This page also consists of a field to be filled with the order ID specifying the order that was delivered.<br><br>
-<img src="admin_order.PNG" width=750px><br><br>
+<img src="images/admin_order.PNG" width=750px><br><br>
 4. Viewing the food rating to improve the quality of the food.<br><br>
-<img src="admin_rate.PNG" width=750px><br><br>
+<img src="images/admin_rate.PNG" width=750px><br><br>
