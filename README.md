@@ -43,7 +43,7 @@ There is a checkout button that takes you to the cart.<br><br>
 
 **Item added ALERT**<br>
 The alert shows that the specified item has been added to the cart.<br><br>
-<img src="images/item_added_alert.PNG" width=750px><br><br>
+<img src="images/item_added_alert.PNG" width=500px><br><br>
 
 **Cart Page**<br>
 All the items chosen by the user with the quantity and the total (quantity * price) of the list of items is displayed.<br>
@@ -52,7 +52,7 @@ There are 2 buttons in the page - one for cancelling the order and the other to 
 
 **Order Cancelled ALERT**<br>
 When the user cancels the order, this alert is displayed.<br><br>
-<img src="order_cancelled_alert.PNG" width=500px><br><br>
+<img src="images/order_cancelled_alert.PNG" width=500px><br><br>
 
 **Order Confirmation Page**
 Here the user can choose the payment option (wallet or cash on delivery) and confirm the order.<br><br>
@@ -62,5 +62,12 @@ Here the user can choose the payment option (wallet or cash on delivery) and con
 When the user confirms his order, this alert is displayed.<br><br>
 <img src="images/order_confirmed_alert.PNG" width=500px><br><br>
 
-**
-<img src="images/login.PNG" width=750px>
+**Wallet Update ALERT**<br>
+When the user chooses to pay with the wallet, and if the wallet has enough balance, the wallet balance is decremented by the total order value.<br><br>
+<img src="images/wallet_update_alert.PNG" width=500px><br><br>
+
+**Food Rating Page**<br>
+This page has only those items that the user recently ordered and have already received the food but have not rated the food.<br><br>
+<img src="images/rate_food.PNG" width=750px><br><br>
+
+
