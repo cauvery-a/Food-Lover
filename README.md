@@ -1,5 +1,7 @@
 # *Food-Lover*
 
+This is a database management project that uses MySQL, XAMPP Server, PHP, HTML, CSS, JavaScript.
+
 # User View
 
 **Login Page**<br>
