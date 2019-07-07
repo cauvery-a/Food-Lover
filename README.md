@@ -1,6 +1,7 @@
 # *Food-Lover*
 
-This is a database management project that uses MySQL, XAMPP Server, PHP, HTML, CSS and JavaScript.
+This is a database management project that uses MySQL, XAMPP Server, PHP, HTML, CSS and JavaScript.<br><br>
+Navigation begins from login.php file. All images used are stored in images folder.<br>
 
 # User View
 
